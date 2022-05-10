@@ -18,12 +18,12 @@
     <tr>
         <td width="50%">
             <p align="left">
-                <img src="https://github-readme-stats.vercel.app/api?username=yk2012&show_icons=true&theme=default&layout=compact">
+                <img src="https://github-readme-stats.vercel.app/api?username=yk2012&show_icons=true&theme=tokyonight&layout=compact">
             </p>
         </td>
         <td width="50%">
             <p align="left">
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk2012&show_icons=true&theme=default&layout=compact">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk2012&show_icons=true&theme=tokyonight&layout=compact">
             </p>
         </td>
     </tr>
